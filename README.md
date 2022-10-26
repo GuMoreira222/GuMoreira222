@@ -1,6 +1,6 @@
 ### Olá, eu sou o Gustavo!
 
-Meu sonho é ser programador e tornar o mundo um lugar melhor com a tecnologia.
+Meu sonho é ser programador e melhorar o mundo com o poder da tecnologia.
 
 
 <!--
