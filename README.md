@@ -4,27 +4,11 @@ Meu sonho é ser um arquiteto de soluções e melhorar o mundo com a tecnologia.
 
 ### 🛠️ Tecnologias e Ferramentas
 
-**Linguagens e Frameworks**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,java,dotnet,cs,pandas,langchain" alt="Linguagens" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,java,dotnet,cs,mongodb,selenium,azure,docker,githubactions,debian,bash,linux,git,vscode,postman,mysql,nginx,postgres,ubuntu" alt="tecnologias" />
 </p>
 
-**Automação e Testes**
-<p>
-  <img src="https://skillicons.dev/icons?i=selenium" alt="Automação" />
-  </p>
-
-**Cloud & Infraestrutura (DevOps)**
-<p>
-  <img src="https://skillicons.dev/icons?i=azure,docker,githubactions,linux,bash" alt="DevOps" />
-</p>
-
-**Ferramentas e Produtividade**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,vscode,postman,insomnia" alt="Tools" />
-</p>
-
-### 📫 Vamos nos conectar?
+### 📫 Informações de contato:
 
 <div align="left">
   <a href="mailto:moreiragustavo221@gmail.com">
