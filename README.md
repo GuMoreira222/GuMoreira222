@@ -1,22 +1,17 @@
 ### Olá, eu sou o Gustavo! 👋
 
-Meu sonho é ser programador e melhorar o mundo com a tecnologia. Atualmente focado em **Automação (RPA)**, **Cloud Architecture** e **DevOps**.
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuMoreira222&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuMoreira222&layout=compact&langs_count=7&theme=dark"/>
-</div>
+Meu sonho é ser um arquiteto de soluções e melhorar o mundo com a tecnologia. Atualmente focado em **Automação (RPA)**, **Cloud Architecture** e **DevOps**.
 
 ### 🛠️ Tecnologias e Ferramentas
 
 **Linguagens e Frameworks**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,java,dotnet,cs" alt="Linguagens" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,java,dotnet,cs,pandas,langchain" alt="Linguagens" />
 </p>
 
 **Automação e Testes**
 <p>
-  <img src="https://skillicons.dev/icons?i=pytest,selenium,playwright" alt="Automação" />
+  <img src="https://skillicons.dev/icons?i=selenium" alt="Automação" />
   </p>
 
 **Cloud & Infraestrutura (DevOps)**
@@ -26,7 +21,7 @@ Meu sonho é ser programador e melhorar o mundo com a tecnologia. Atualmente foc
 
 **Ferramentas e Produtividade**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,vscode,postman,poetry" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,postman,insomnia" alt="Tools" />
 </p>
 
 ### 📫 Vamos nos conectar?
