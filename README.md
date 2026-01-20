@@ -2,6 +2,17 @@
 
 Meu sonho é ser um arquiteto de soluções e melhorar o mundo com a tecnologia. Atualmente focado em **Automação (RPA)**, **Cloud Architecture** e **DevOps**.
 
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavo-moreira-099564236&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-moreira-099564236&layout=compact&theme=tokyonight&hide=html,css" alt="Linguagens mais usadas" />
+</div>
+
+---
+
 ### 🛠️ Tecnologias e Ferramentas
 
 <p>
